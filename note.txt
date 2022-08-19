@@ -1,0 +1,3 @@
+arry slicer, structure ,dataType , maps, type casting --> in learn from ----> https://www.youtube.com/watch?v=C8LgvuEBraI ,... this go lang in 12 minitue by Jake Wright
+
+defer, concurrency , go rutine etc i learn from ----> https://www.youtube.com/watch?v=JoJ8Sw5Yb4c&list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa ---> this play list .... by Hitesh Choudhary
